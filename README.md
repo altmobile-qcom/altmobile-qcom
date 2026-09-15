@@ -1,5 +1,9 @@
 # AltLinux Mobile for Qualcomm Mainline Devices
 
+> [!CAUTION]
+> **THIS REPOSITORY IS DEPRECATED.** 
+> This project is no longer maintained. Please use the official guide instead: [**Official Guide**](https://altmobile.org/installations/mobile-devices/).
+
 <img align="right" src="src/NP1-Alt1.png" alt="AltMobile running on Nothing Phone (1)" width="300"/>
 
 This repository contains scripts to automate the building of the AltLinux root filesystem (rootfs) and Linux kernel for Qualcomm Mainline devices. It simplifies the setup process, enabling you to quickly prepare a system to run AltLinux on Qualcomm mobile devices.
